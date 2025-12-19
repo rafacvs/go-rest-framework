@@ -407,15 +407,15 @@ Resposta enviada ao cliente
 
 Em primeiro lugar a API desenvolvida com o GoFramework é iniciada. O servidor é carregado, as rotas são registradas e a aplicação fica pronta para receber requisições HTTP.
 
-![Imagem](https://github.com/rafacvs/go-rest-framework/blob/master/imagem1.png)
+![Imagem](https://github.com/rafacvs/go-rest-framework/blob/master/Imagem1.png)
 
 Em seguida, é inicializado o frontend.
 
-![Imagem](https://github.com/rafacvs/go-rest-framework/blob/master/imagem2.png)
+![Imagem](https://github.com/rafacvs/go-rest-framework/blob/master/Imagem2.png)
 
 E por fim, a execução da aplicação já em funcionamento, exibindo a listagem de usuários obtida a partir da API.
 
-![Imagem](https://github.com/rafacvs/go-rest-framework/blob/master/imagem3.png)
+![Imagem](https://github.com/rafacvs/go-rest-framework/blob/master/Imagem3.png)
 
 ## Convenções de Estrutura de Arquivos
 
